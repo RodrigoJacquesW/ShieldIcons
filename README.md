@@ -1,4 +1,4 @@
-🏟️ Escudos de Times Brasileiros para Power BI
+#🏟️ Escudos de Times Brasileiros para Power BI
 Este repositório contém uma tabela com escudos oficiais de clubes brasileiros, prontos para serem usados em projetos no Power BI. A tabela possui:
 
 🧾 Uma coluna com os nomes dos times
