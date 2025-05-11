@@ -1,17 +1,16 @@
-# 🏟️ Escudos de Times Brasileiros para Power BI
-Este repositório contém uma tabela com escudos oficiais de clubes brasileiros, prontos para serem usados em projetos no Power BI. A tabela possui:
+# 🏟️ Escudos de Times Brasileiros para Power BI  
+[English below ⬇️]
 
-🧾 Uma coluna com os nomes dos times
+Este repositório contém uma tabela com nomes de **times brasileiros** e seus respectivos **links para escudos em formato PNG**.  
+Você pode importar diretamente no Power BI, utilizar a coluna de links e **converter o tipo para "URL da Imagem"** para visualizar os escudos nos seus dashboards.
 
-🌐 Uma coluna com os links diretos das imagens (formato PNG) dos escudos hospedados na web
 
-💡 Como utilizar no Power BI
-Importe o arquivo da tabela para o Power BI (pode ser via Excel, CSV ou Web).
 
-Localize a coluna dos links de escudos.
+---
 
-No Power BI Desktop, selecione a coluna com os links e vá até:
+## 🇺🇸 English version
 
-Modelagem > Tipo de dados: selecione Imagem URL.
+This repository provides a table with **Brazilian football team names** and their corresponding **image URLs for team crests in PNG format**.  
+You can import it directly into Power BI, use the link column, and **change the data type to "Image URL"** to display the crests in your dashboards.
 
-Agora os escudos aparecerão automaticamente como imagens nas suas tabelas e visuais!
+
